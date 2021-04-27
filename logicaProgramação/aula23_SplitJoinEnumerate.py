@@ -30,4 +30,4 @@ print("".join(lista))
 A função enumarate() retorna um objeto iterável.
 '''
 for key, value in enumerate(["p", "y", "t", "h", "o", "n"]):
-    print key, value
+    print(key, value)
